@@ -1,0 +1,5 @@
+#here is my git ignore file - AM
+
+*.txt
+scapy-master
+*.cap
